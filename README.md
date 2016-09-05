@@ -2,6 +2,12 @@
 
 Le but de cet exercice de groupe est de se concentrer sur l'écriture d'une interface en amont de développement.
 
+## Interaction
+
+![commande](img/interaction-commande.svg)
+
+![inventaire](img/interaction-inventaire.svg)
+
 ## Exemple
 
 ```java
