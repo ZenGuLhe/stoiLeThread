@@ -2,8 +2,9 @@
 
 Le but de cet exercice de groupe est de se concentrer sur l'écriture d'une interface en amont de développement.
 
-##
+## Exemple
 
+```java
 class CafetImpl {
   Fournisseur fournisseur;
 
@@ -52,7 +53,9 @@ test_fournisseur() {
   // quand on me commande des saucisses
   // alors je les fourni par 6
 }
+```
 
+```
   v^
 +--------+  INs : 
 |Comptoir|
@@ -77,3 +80,4 @@ test_fournisseur() {
 |Frigo|
 +-----+
   ^v
+```
