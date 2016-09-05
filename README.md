@@ -1,6 +1,6 @@
 # stoiLeThread
 
-Le but de cet exercice de groupe est de se concentrer sur l
+Le but de cet exercice de groupe est de se concentrer sur l'écriture d'une interface en amont de développement.
 
 ##
 
