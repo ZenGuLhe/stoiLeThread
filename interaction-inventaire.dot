@@ -1,0 +1,4 @@
+digraph interactions {
+	CUISINIER -> FRIGO [label = "1. inventaire"];
+	CUISINIER -> FOURNISSEUR [label = "2. commande(SAUCISSE)"];
+}

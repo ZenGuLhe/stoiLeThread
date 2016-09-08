@@ -1,0 +1,6 @@
+digraph interactions {
+	CLIENT -> SERVEUR [label = "1. commande(hotdog)"];
+	SERVEUR -> CUISINIER [label = "1.1. hotdog"];
+	CUISINIER -> FRIGO [label = "1.1.a utilise(SAUCISSE)"];
+	CUISINIER -> FRIGO [label = "1.1.b. utilise(MOUTARDE)"];
+}
